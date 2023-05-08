@@ -1,0 +1,14 @@
+{
+    "name": "Avatar Customiser",
+    "description": "Allows you to customise the way avatars render on Vendetta! ",
+    "authors": [
+        {
+            "name": "Hekky",
+            "id": "346338830011596800"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_theme_24px"
+    }
+}
